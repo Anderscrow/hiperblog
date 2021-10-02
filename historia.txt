@@ -8,6 +8,8 @@ Todo indica que esta vez si lograre mi cometido.
 
 hoy quedo demostrado mi valor.
 
+proyecto 1
+
 Volvi hoy 2/9/21 para seguir con el curso de git and github, ya que ayer termine el curso de terminal y 
 linea de comandos pero ayer no pase el examen me quedaron 3 respuestas mal y hoy tambien.
 
